@@ -18,7 +18,7 @@ void AddToQueue(std::string str, std::deque<std::string>& queue)
             break;
 
             std::cout << "teste";
-            //testing git
+            //testing git heheh
 
         }
 

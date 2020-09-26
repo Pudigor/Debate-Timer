@@ -17,7 +17,7 @@ void AddToQueue(std::string str, std::deque<std::string>& queue)
             queue.push_back(str);
             break;
 
-            std::cout << "teste";!
+            std::cout << "teste";
             //testing git
 
         }
